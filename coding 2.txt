@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To Miss Ummi</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(#ffe6f0, #fff5fa);
+      color: #333;
+      padding: 20px;
+      margin: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #d63384;
+      text-align: center;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 14px;
+      color: #999;
+    }
+    button {
+      display: block;
+      margin: 30px auto;
+      padding: 10px 20px;
+      background-color: #ff66b2;
+      border: none;
+      border-radius: 8px;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    img, video {
+      display: block;
+      max-width: 100%;
+      margin: 20px auto;
+      border-radius: 10px;
+    }
+    audio {
+      display: block;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>To Miss Ummi, with Love</h1>
+    <p>Assalamualaikum and greetings,</p>
+
+    <p>Today may be just another ordinary date on the calendar, but for me, it marks the end of a chapter that has shaped a meaningful part of my life as a student at <strong>Kolej Matrikulasi Labuan</strong>.</p>
+
+    <p>Your class wasn’t just about atoms, ions, or chemical bonds. It was a space where I discovered patience, sincerity, and the dedication of a teacher who never gave up on her students.</p>
+
+    <p>Miss Ummi, you might not even realise it, but every smile, every gentle reminder, and every note you wrote on the whiteboard has left an impact on my heart that words can’t fully express.</p>
+
+    <p>I may not remember every chemical formula in the future, but I will always remember how your voice comforted us before exams, how you believed in our potential, and how your calm presence brought light into even the most stressful days.</p>
+
+    <p>As I prepare for my final exam, <strong>PSPM 2</strong>, I promise to give it my very best. Not just for myself, but as a way to honour the knowledge, time, and heart you have given to us.</p>
+
+    <p>Even as we part ways, your lessons will remain — not only in our notes but in the values we carry. You were not just a Chemistry lecturer — you were the catalyst that sparked courage, growth, and hope in me.</p>
+
+    <p>From the bottom of my heart, thank you for being our teacher, our guide, and our light during this journey.</p>
+
+    <p>With heartfelt love and respect,<br>
+    <em>Nur Hasnidar Rahman</em><br>
+    <em>F21</em></p>
+
+    <!-- Butang emosi -->
+    <button onclick="alert('Thank you Miss Ummi. You are the most beautiful catalyst in my life.')">
+      Tap for a Memory Spark
+    </button>
+
+    <div class="footer">
+      Created with love by <strong>Nida</strong>, <strong>F21</strong>
+    </div>
+  </div>
+</body>
+</html>
